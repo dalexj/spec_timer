@@ -5,7 +5,7 @@ which took longer 1 second to run.
 # Installation
 
 ```
-coming soon
+gem install spec_timer
 ```
 
 # Usage
