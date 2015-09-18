@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.author      = "dalexj"
   s.email       = "96dalex@gmail.com"
   s.files       = ["lib/spec_timer.rb"] + Dir["lib/spec_timer/*"]
-  s.homepage    = "https://github.com/dalexj"
+  s.homepage    = "https://github.com/dalexj/spec_timer"
 end
